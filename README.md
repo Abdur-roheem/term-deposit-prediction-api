@@ -134,7 +134,7 @@ _#Run container_
 }
 ```
 
-## 💼 Business Impact**
+## 💼 Business Impact
 
 This solution can help organizations:
 
