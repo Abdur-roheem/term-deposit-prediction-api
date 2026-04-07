@@ -121,11 +121,23 @@ _#Run container_
 **Example Request**
 ```
 {
-  "age": 35,
-  "job": "management",
-  "balance": 5000,
-  "housing": "yes"
-}
+  "age": 34,
+ "job": "technician",
+ "marital": "married",
+ "education": "secondary",
+ "default": "no",
+ "balance": -346,
+ "housing": "yes",
+ "loan": "no",
+ "contact": "unknown",
+ "day": 3,
+ "month": "jul",
+ "duration": 115,
+ "campaign": 4,
+ "pdays": -1,
+ "previous": 0,
+ "poutcome": "unknown"
+ }
 ```
 **Example Response**
 ```
